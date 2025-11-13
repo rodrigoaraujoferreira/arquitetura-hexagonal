@@ -1,5 +1,4 @@
-# Projeto de Estudo - Clean Architecture com Java e Spring
-
+# Projeto de Estudo - DDD
 Este é um projeto de estudo criado com o objetivo de praticar os princípios da Clean Architecture. A aplicação é escrita em **Java**, utilizando o **Spring Framework** e **H2** como banco de dados em memória.
 
 ## Objetivos
